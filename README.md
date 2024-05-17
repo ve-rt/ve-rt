@@ -19,4 +19,4 @@ Hi! I'm Vert, a Fullstack Developer, Software Engineer, & Systems Analyst, if yo
     <br>
     Scratch (real)
 </div>
-<img align="center" src="https://lanyard.cnrad.dev/api/516721488594862080" alt="Discord Status">
+<img align="left" src="https://lanyard.cnrad.dev/api/516721488594862080" alt="Discord Status">
