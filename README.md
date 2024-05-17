@@ -3,7 +3,7 @@
 Hi! I'm Vert, a Fullstack Developer, Software Engineer, & Systems Analyst, if you have any questions feel free to let me know.
 </br>
 
-<h2 align="center"> Known languages: </h2>
+<h2 align="left"> Known languages: </h2>
 <div align="left">
     ⭐ Lua
     <br>
