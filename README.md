@@ -4,7 +4,7 @@ Hi! I'm Vert, a Fullstack Developer, Software Engineer, & Systems Analyst, if yo
 </br>
 
 <h2 align="center"> Known languages: </h2>
-<div align="center">
+<div align="left">
     ⭐ Lua
     <br>
     ⭐ JS
