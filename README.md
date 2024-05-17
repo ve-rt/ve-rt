@@ -3,7 +3,6 @@
 Hi! I'm Vert, a Fullstack Developer, Software Engineer, & Systems Analyst, if you have any questions feel free to let me know.
 </br>
 
-<img align="right" src="https://lanyard.cnrad.dev/api/516721488594862080" alt="Discord Status">
 <h2 align="center"> Known languages: </h2>
 <div align="center">
     ⭐ Lua
@@ -20,3 +19,4 @@ Hi! I'm Vert, a Fullstack Developer, Software Engineer, & Systems Analyst, if yo
     <br>
     Scratch (real)
 </div>
+<img align="right" src="https://lanyard.cnrad.dev/api/516721488594862080" alt="Discord Status">
