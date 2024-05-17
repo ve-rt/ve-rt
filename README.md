@@ -4,6 +4,7 @@ Hi! I'm Vert, a Fullstack Developer, Software Engineer, & Systems Analyst, if yo
 </br>
 
 <h2 align="left"> Known languages: </h2>
+<img align="right" src="https://lanyard.cnrad.dev/api/516721488594862080" alt="Discord Status">
 <div align="left">
     ⭐ Lua
     <br>
@@ -17,8 +18,4 @@ Hi! I'm Vert, a Fullstack Developer, Software Engineer, & Systems Analyst, if yo
     <br>
     CSS
     <br>
-    Scratch (real)
-   <br>
-    <img align="right" src="https://lanyard.cnrad.dev/api/516721488594862080" alt="Discord Status">
-   <br>
 </div>
