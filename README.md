@@ -10,12 +10,11 @@ Hi! I'm Vert, a Fullstack Developer, Software Engineer, & Systems Analyst, if yo
     <br>
     ⭐ JS
     <br>
-    ⭐ C#
+    ⭐ HTML
     <br>
-    C++
+    ⭐ CSS
     <br>
-    HTML
+    😐 C++
     <br>
-    CSS
-    <br>
+    😐 C#
 </div>
